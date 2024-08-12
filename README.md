@@ -7,9 +7,9 @@
 Thanks for checking out this front-end coding challenge.
 
 ### Links
-Solution URL: 
+Solution URL: https://www.frontendmentor.io/solutions/responsive-ping-coming-soon-page-master-IkCzqfd_Z3
 
-Live Site URL: 
+Live Site URL:  https://ping-coming-soon-page-master-flax-pi.vercel.app/
 
 - [Frontend Mentor Page](https://www.frontendmentor.io/profile/rocioizq)
 - [GitHub Pages](https://github.com/rocioizq)
